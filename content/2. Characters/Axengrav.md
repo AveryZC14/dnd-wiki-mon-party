@@ -18,6 +18,8 @@ tags:
 this is monash party exclusive text!!
 </mp-exclusive>
 
+they live in [[Palias]]
+
 # Appearance
 - 
 # Traits
