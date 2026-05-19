@@ -14,7 +14,7 @@ tags:
   - both-parties
 ---
 # Appearance
-- 
+
 # Traits
 
 # Personality

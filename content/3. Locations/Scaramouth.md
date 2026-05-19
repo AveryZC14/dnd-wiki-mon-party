@@ -6,6 +6,12 @@ tags:
   - both-parties
 ---
 #location #both-parties 
+## Description
+A lovely little tavern in the heart of scaramouth
+
+## key info
+
+
 ### Sub-Locations
 ```base
 views:
