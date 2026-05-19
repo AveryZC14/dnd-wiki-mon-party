@@ -15,7 +15,7 @@ tags:
   - both-parties
 ---
 <mp-exclusive>
-this is monash party exclusive text!
+this is monash party exclusive text!!
 </mp-exclusive>
 
 # Appearance
