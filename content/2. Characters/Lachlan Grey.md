@@ -1,22 +1,20 @@
 ---
-name:
+name: Lachlan Grey
 aliases:
-pronouns:
-species:
-player:
-class:
-level:
+  - Lachlan
+pronouns: He/Him
+species: Human
+affiliation:
+attitude:
 residence:
 status:
+statblock:
 tags:
   - character
+  - npc
   - both-parties
-  - player-character
 ---
 # Appearance
-
-
-# Backstory
 
 
 # Traits
@@ -27,5 +25,3 @@ tags:
 
 # Key Info
 
-
-# Key Relationships

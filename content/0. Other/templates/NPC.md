@@ -15,9 +15,12 @@ tags:
 ---
 # Appearance
 
+
 # Traits
 
+
 # Personality
+
 
 # Key Info
 
