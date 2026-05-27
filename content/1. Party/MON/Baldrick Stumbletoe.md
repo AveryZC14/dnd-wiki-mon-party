@@ -1,11 +1,11 @@
 ---
-name: Keigh'ik Vocalle
+name: Baldrick Stumbletoe
 aliases:
-  - Keigh'ik
+  - Baldrick
 pronouns: He/Him
-species: Yuan-ti
-player: Poppy
-class: Fighter
+species: Halfling
+player: Damien
+class: Rogue
 level: "4"
 residence:
   - "[[Palias]]"
@@ -13,17 +13,22 @@ residence:
 status: Alive (for now)
 tags:
   - character
-  - mon-party
   - player-character
+  - mon-party
 ---
 # Appearance
 
+
 # Backstory
+
 
 # Traits
 
+
 # Personality
 
+
 # Key Info
+
 
 # Key Relationships

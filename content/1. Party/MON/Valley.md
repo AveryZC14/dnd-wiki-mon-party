@@ -1,29 +1,32 @@
 ---
-name: Keigh'ik Vocalle
+name: Valley
 aliases:
-  - Keigh'ik
-pronouns: He/Him
-species: Yuan-ti
-player: Poppy
-class: Fighter
+pronouns: She/Her
+species: Dwarf
+player: Abi
+class: Barbarian
 level: "4"
 residence:
   - "[[Palias]]"
-  - "[[Scaramouth]]"
-status: Alive (for now)
+status:
 tags:
   - character
-  - mon-party
   - player-character
+  - mon-party
 ---
 # Appearance
 
+
 # Backstory
+
 
 # Traits
 
+
 # Personality
 
+
 # Key Info
+
 
 # Key Relationships

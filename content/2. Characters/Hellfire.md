@@ -1,13 +1,14 @@
 ---
-name:
+name: Hellfire
 aliases:
 pronouns:
-species:
+  - He/Him
+species: Inferno SPider
 affiliation:
 attitude:
 alignment:
 residence:
-status:
+status: Alive
 statblock:
 tags:
   - character

@@ -1,11 +1,10 @@
 ---
-name: Keigh'ik Vocalle
+name: Hyacinth
 aliases:
-  - Keigh'ik
-pronouns: He/Him
-species: Yuan-ti
-player: Poppy
-class: Fighter
+pronouns: She/Her
+species: Elf
+player: Claudia
+class: Wizard
 level: "4"
 residence:
   - "[[Palias]]"
@@ -13,17 +12,22 @@ residence:
 status: Alive (for now)
 tags:
   - character
-  - mon-party
   - player-character
+  - mon-party
 ---
 # Appearance
 
+
 # Backstory
+
 
 # Traits
 
+
 # Personality
 
+
 # Key Info
+
 
 # Key Relationships
