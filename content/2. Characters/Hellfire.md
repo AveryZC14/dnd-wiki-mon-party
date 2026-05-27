@@ -13,7 +13,7 @@ statblock:
 tags:
   - character
   - npc
-  - both-parties
+  - mon-party
 ---
 # Appearance
 
