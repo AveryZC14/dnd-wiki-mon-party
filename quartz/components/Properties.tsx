@@ -11,6 +11,7 @@ const Properties: QuartzComponent = ({ fileData, displayClass, allFiles }: Quart
   if (entries.length === 0) return null
 
   const renderValue = (value: any) => {
+    if (value == null) return ""
     const str = String(value)
     const match = str.match(/\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/)
     
