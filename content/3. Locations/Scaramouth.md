@@ -7,7 +7,7 @@ tags:
 ---
 #location #both-parties 
 ## Description
-A lovely little tavern in the heart of scaramouth
+A lovely little tavern in the heart of Palias
 
 ## key info
 

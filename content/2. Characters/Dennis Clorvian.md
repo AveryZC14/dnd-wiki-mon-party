@@ -26,3 +26,4 @@ Dennis is quite timid and scares quite easily
 
 # Key Info
 Dennis is the adopted son of [[Cassius Clorvian]]. He's been given a danger-sensing ring by cassius to try to keep him safe.
+- Has a Ring of danger detection

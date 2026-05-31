@@ -9,7 +9,7 @@ tags:
 | No. | Notes | Summary                                 |
 | --- | ----- | --------------------------------------- |
 | 1   |       | [[Clorvie Floor Cleaner! (MP Summary)]] |
-| 2   |       |                                         |
+| 2   |       | [[Protectoball! (MP Summary)]]          |
 | 3   |       |                                         |
 | 4   |       |                                         |
 | 5   |       |                                         |
