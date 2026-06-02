@@ -1,11 +1,12 @@
 ---
-name:
+name: Cade
 aliases:
 pronouns:
-species:
+  - He/Him
+species: Half-orc
 affiliation:
 attitude:
-alignment:
+alignment: True Neutral
 residence:
 status:
 statblock:
@@ -24,6 +25,6 @@ tags:
 
 
 # Key Info
+servant of [[House Kjellsvard]]
 
-
-# History
+# Interaction History

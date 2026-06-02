@@ -5,6 +5,7 @@ pronouns:
 species:
 player:
 class:
+age:
 level:
 residence:
 status:
@@ -29,3 +30,6 @@ tags:
 
 
 # Key Relationships
+
+
+# Key History

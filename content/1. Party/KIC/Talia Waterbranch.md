@@ -17,6 +17,7 @@ tags:
   - player-character
 ---
 # Appearance
+Fair skin, yet freckled and sun kissed (damaged lmfao). Big mane of curly, red hair sometimes kept in a bun or ponytail. Mid 20s. Often wears a green chemise and dark pantaloons, a dark navy blue cloak for poor weather.
 
 # Backstory
 
