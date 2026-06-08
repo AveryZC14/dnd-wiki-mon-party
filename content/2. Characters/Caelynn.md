@@ -1,10 +1,11 @@
 ---
-name:
+name: Caelynn
 aliases:
 pronouns:
-species:
+  - She/Her
+species: Aasimar
 affiliation:
-attitude:
+attitude: Friendly
 alignment:
 residence:
 status:
@@ -24,6 +25,7 @@ tags:
 
 
 # Key Info
-
+- tutor and mentor of [[Filarion Phrygia]]
+- 
 
 # History

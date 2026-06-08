@@ -20,7 +20,7 @@ tags:
 # Backstory
 
 
-# Traits
+# Goals
 
 
 # Personality
