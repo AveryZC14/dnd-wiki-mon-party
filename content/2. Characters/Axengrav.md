@@ -34,7 +34,6 @@ They sport a multitude of Jewellery, a pendant with a big green gem, many horn-r
 # Key Info
 
 
-
 # Interaction history
 
 <mp-start></mp-start>
