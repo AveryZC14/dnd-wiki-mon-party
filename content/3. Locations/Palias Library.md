@@ -9,7 +9,8 @@ tags:
 A small, quaint little library in palias. 
 
 ## key info
-
+- Owned by [[Jules]]
+- Taken care of by [[William]]
 
 ### Sub-Locations
 ```base

@@ -1,5 +1,5 @@
 ---
-name: Juliana Ethels
+name: Jules
 aliases:
   - Jules
 pronouns:
@@ -27,7 +27,6 @@ An older woman, brown skin, yellow eyes, glasses, greying hair.
 kind, warm, welcoming
 
 # Key Info
-- Prefers to be called "Jules"
 - owns and runs the [[Palias Library]]
 - Caretaker of the Automaton [[William]]
 - 
