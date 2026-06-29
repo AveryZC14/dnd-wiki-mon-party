@@ -20,6 +20,9 @@ age:
 
 
 # Backstory
+grew up and learned magic in the [[Oaken Incant Academy]].
+Took a gap in studies, for probably a few years/decades, to go adventuring before graduation
+went to the nearby town of [[Palias]]
 
 
 # Traits
