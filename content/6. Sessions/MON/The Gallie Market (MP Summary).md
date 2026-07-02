@@ -17,7 +17,7 @@ tags:
 ---
 Click [[MON Session Log|Here]] to see the MON session log.
 
-in past, Keigh'ik's mother, Lady Vocalle, has been sending him messages through the sending spell. He's claiming that he's still at the camp, training, but they have obviously discovered the fake letters and that he's not there....
+in past, [[Keigh'ik Vocalle|Keigh'ik]]'s mother, Lady Vocalle, has been sending him messages through the sending spell. He's claiming that he's still at the camp, training, but they have obviously discovered the fake letters and that he's not there....
 
 more sending spells from Lady vocalle
 "Keigh'ik, Return to house Vocalle at once. This behaviour is insolent, reckless, unacceptable, and does not reflect the values of House Vocalle. Shame on you."
@@ -35,9 +35,35 @@ more sending spells from Lady vocalle
 - "the grand consortium in the fortress of the half demon in Thay"
 
 The gang is razzled, but still kicking. 
-- Valley's got good faith that the party will be strong and good enough to adventure without here. 
-- Baldrick's adventuring jus for the hell of it 😳😳😳 
+- [[Valley]]'s got good faith that the party will be strong and good enough to adventure without here. 
+- [[Baldrick Stumbletoe|Baldrick]]'s adventuring jus for the hell of it 😳😳😳 
 - Keigh'ik's experience has been what he kinda hoped for! even though it's a significant downgrade in quality of living
-- Hyacinth is spiralling bad... she's convinced that she won't be able to return to her studies due to this "curse"
+- [[Hyacinth]] is spiralling bad... she's convinced that she won't be able to return to her studies due to this "curse"
 
-- Axengrav laments the lack of high-paying commissions recently. yikes. 
+- [[Axengrav]] laments the lack of high-paying commissions recently. yikes. 
+- They mention there's a competition in town with a prize pool of 1500gp.
+- Sign up is at the [[Gallie Market]], a bustling market at the heart of Palias.
+
+- The party officially chooses their name - [[The Stumbling Toes]]
+- party heads to the Gallie market
+
+- Meets Grash Jawbreaker, butcher. lately he can't hunt for meat since there's a huge tender megaboar chasing out all the animals
+	- Grash loves adventurers!
+	- keigh'ik hands him a rat, grash dirties his grill and cooks it
+	- Grash also cooks up some meat cubes as a snack for the party
+- Party meets Devin the farmer
+	- Baldrick "steals" some carrots, later paying for them
+- Party sees boots!
+	- Boots is selling taxidermied fish that sing when pressed
+- Keigh'ik sneaks off to find a tailor to buy a "sneaky cloak"
+	- Meets FIlian the Tailor and clothesmaker, buys a huge and heavy black cloak
+- keigh'ik also walks past an aasimar trying to sell circlets of privacy, raving about how people can be scried on at any time!
+	- keigh'ik later deduces that this is bs.
+- The gang see the poster for the "Dooley Duel", a generational cooking competition, with the prize of 1500 GP and a brand-new set of Dooley Cookware's (tm) Ultimate Golden "Cook It Yourself" Chef's tools 3000 (4th generation) (tm)
+	- run by Randal Dooley, sponsored by her company, Dooley cookware
+- the ST are accosted by [[Francois Lefryer]], who's signing up for the dooley duel. 
+- He's quite the character!
+- Now there are two entrants to the dooley duel! Axengrav and Francois.
+
+- The gang decides to go track down the Tender Megaboar.
+- 
